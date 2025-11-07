@@ -113,27 +113,6 @@ By the end of this lab, you will be able to:
 
 ---
 
-## 🪜 How to Run Locally
-
-1. Clone the repository
-
-    ```bash
-    git clone <https://github.com/structbase/Interactive-Registration-Form>
-    ```
-
-2. Navigate into the project folder
-
-    ```bash
-    cd Interactive-Registration-Form
-    ```
-
-3. Open the project in your browser
-
-    ```bash
-    open index.html
-    ```
-
----
 
 ## 🏁 Credits & Resources
 
