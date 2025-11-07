@@ -161,3 +161,8 @@ Ensuring each input displayed only one clear error message was tricky. Using ded
 Messages were written in plain, concise language and positioned next to their respective inputs, updating immediately when errors were resolved.
 
 ---
+## ✍️ Author
+
+Developed by **Abenezer**
+
+>  Junior developer 
