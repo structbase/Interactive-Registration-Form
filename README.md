@@ -118,13 +118,13 @@ By the end of this lab, you will be able to:
 1. Clone the repository
 
     ```bash
-    git clone <https://github.com/structbase/Dynamic-Shopping-Cart>
+    git clone <https://github.com/structbase/Interactive-Registration-Form>
     ```
 
 2. Navigate into the project folder
 
     ```bash
-    cd Dynamic-Shopping-Cart
+    cd Interactive-Registration-Form
     ```
 
 3. Open the project in your browser
